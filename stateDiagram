@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T22:49:34.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6kc3KGdROrE1E3Ndljjq" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T00:00:08.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hGrz6ctO2zszi5p0I5BR" version="16.0.3" type="github">
   <diagram id="ibBP3WHUCYZsWHnK7c7F" name="Page-1">
-    <mxGraphModel dx="3455" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="5245" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NAYKpirZV9pptctWj_pX-296" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-281" target="NAYKpirZV9pptctWj_pX-284">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2370" y="740" />
+              <mxPoint x="-2360" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-4" value="" style="shape=ellipse;html=1;fillColor=#000000;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="293" width="20" height="20" as="geometry" />
         </mxCell>
@@ -146,11 +154,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NAYKpirZV9pptctWj_pX-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;آیا اطلاعات &lt;br&gt;درست است&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="60" y="650" width="110" height="80" as="geometry" />
+        <mxCell id="NAYKpirZV9pptctWj_pX-57" value="&lt;font size=&quot;1&quot;&gt;آیا اطلاعات درست است&lt;br&gt;&amp;nbsp;و ایمیل تایید شده است&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="55" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-60" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="165" y="670" width="30" height="20" as="geometry" />
+          <mxGeometry x="180" y="670" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontSize=14;fontColor=default;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-61" target="NAYKpirZV9pptctWj_pX-14">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +167,7 @@
           <mxGeometry x="161" y="780" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-63" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="35" y="670" width="30" height="20" as="geometry" />
+          <mxGeometry x="28" y="670" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=14;fontColor=default;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-64" target="NAYKpirZV9pptctWj_pX-33">
           <mxGeometry relative="1" as="geometry" />
@@ -621,7 +629,322 @@
           <mxGeometry x="-1461" y="702" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NAYKpirZV9pptctWj_pX-239" value="صفحه اصلی" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-1415" y="820" width="70" height="20" as="geometry" />
+          <mxGeometry x="-1415" y="827" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-241" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-241" value="" style="shape=ellipse;html=1;fillColor=#000000;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2620" y="199" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-243" value="&lt;font style=&quot;font-size: 18px&quot;&gt;صفحه سوال و پاسخ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2675" y="172" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2609.714285714286" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-246" target="NAYKpirZV9pptctWj_pX-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-246" value="&lt;span style=&quot;font-size: 16px&quot;&gt;نمایش سوال&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=24;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-249">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2480" y="445.5882352941177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-249">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2720" y="445.5882352941177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-249" value="&lt;font style=&quot;font-size: 14px&quot;&gt;آیا کاربر وارد&lt;br&gt;&amp;nbsp;شده است&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2665" y="406" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-250" value="کاربر به بخش پاسخ میرود" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2724" y="351" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-253" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="425" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-254" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2743" y="436" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-255" value="صفحه ورود و ثبت نام" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2800" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-257">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2425" y="556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-257">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2300" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-257" value="&lt;span style=&quot;font-size: 14px&quot;&gt;آیا کاربر، معلم&amp;nbsp;است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="406" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-260" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2368" y="426" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;entryX=0.564;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-261">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2244.32" y="553.3599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-263" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-261" target="NAYKpirZV9pptctWj_pX-271">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2130" y="616" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2130" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-261" value="&lt;span style=&quot;font-size: 14px&quot;&gt;آیا کاربر، کاربر&lt;br&gt;ویژه است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2299" y="406" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-264" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2185" y="426" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-265" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="486" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-269">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2425" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=17;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-269">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2620" y="576.1111111111111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2321" y="566.5555555555554" as="targetPoint" />
+            <mxPoint x="-2381" y="567" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-2381" y="587" />
+              <mxPoint x="-2321" y="587" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-269" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش پاسخ ها&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="556" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-270" target="NAYKpirZV9pptctWj_pX-281">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2244" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=17;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-270">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2120" y="576.1111111111111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2321" y="320" as="targetPoint" />
+            <mxPoint x="-2290" y="566" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-270" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش پاسخ ها&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2289" y="556" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-271">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1905" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-271" value="&lt;font style=&quot;font-size: 11px&quot;&gt;نمایش پاسخ&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1950" y="556" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-274" value="ثبت پاسخ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="605" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-277">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2510" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-277">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2425" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-277" value="&lt;span style=&quot;font-size: 10px ; line-height: 0.5&quot;&gt;آیا قبلا به این&amp;nbsp;&lt;br&gt;سوال پاسخ داده&lt;br&gt;است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2474.5" y="659" width="99.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-280" value="ثبت پاسخ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2300" y="605" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;startArrow=none;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2130" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-281" value="&lt;span style=&quot;font-size: 10px ; line-height: 0.5&quot;&gt;آیا قبلا به این&amp;nbsp;&lt;br&gt;سوال پاسخ داده&lt;br&gt;است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2298.5" y="650" width="108.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-283" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2495" y="675" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-284" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2530" y="681" />
+              <mxPoint x="-2530" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-284" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ویرایش کردن پاسخ قبلی&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2601" y="681" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-287" value="پاسخ ویرایش شده ثبت میشود / انصراف" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2723" y="656" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-289" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="745" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-290" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2840" y="805" />
+              <mxPoint x="-2840" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-290" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;پاسخ دادن&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="785" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-294" value="پاسخ معلم برای سوال ثبت میشود / انصراف" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2685" y="785" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-298" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2295" y="715" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-301" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2760" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2162" y="845" />
+              <mxPoint x="-2830" y="845" />
+              <mxPoint x="-2830" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-301" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;پاسخ دادن&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2185" y="785" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NAYKpirZV9pptctWj_pX-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2100" y="715" as="targetPoint" />
+            <mxPoint x="-2190" y="694" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-304" value="پاسخ دانش آموز برای سوال ثبت میشود" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2350" y="822" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-306" value="&lt;span style=&quot;font-size: 14px&quot;&gt;ثبت بازخورد&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2604" y="550" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-309" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ثبت بازخورد&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2202" y="552" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-310" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-310" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ثبت بازخورد&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="556" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-312" value="بازخورد دانش آموز ثبت شد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;fontColor=default;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-2120" y="532" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-313" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2850" y="576" />
+              <mxPoint x="-2850" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-313" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ثبت بازخورد&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2713" y="556" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-315" value="بازخورد معلم ثبت شد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2823" y="557" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-317" target="NAYKpirZV9pptctWj_pX-323">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2030" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-317" target="NAYKpirZV9pptctWj_pX-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-317" value="&lt;span style=&quot;font-size: 12px ; line-height: 0.5&quot;&gt;آیا بیشتر از 3 سوال&amp;nbsp;&lt;br&gt;در ماه دیده است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1959.75" y="650" width="109.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-319" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="735" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;startArrow=none;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-325">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2124.75" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-320" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش خطای محدودیت کاربر&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2044.75" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-322" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="675" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-323" target="NAYKpirZV9pptctWj_pX-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-323" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;نمایش پاسخ ها&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=13;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1805" y="674" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-325" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2134.75" y="920" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-326" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-320">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2124.75" y="920" as="targetPoint" />
+            <mxPoint x="-2044.75" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-328" value="صفحه خرید اشتراک" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2174.75" y="940" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-336" target="NAYKpirZV9pptctWj_pX-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;endFill=1;elbow=vertical;" edge="1" parent="1" source="NAYKpirZV9pptctWj_pX-336" target="NAYKpirZV9pptctWj_pX-323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-336" value="&lt;span style=&quot;font-size: 12px ; line-height: 0.5&quot;&gt;آیا سوال را قبلا&lt;br&gt;دیده است&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1954.75" y="768" width="99.75" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-340" value="خیر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1984.75" y="785" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-342" value="بله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1850" y="790" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-349" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2778" y="232" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-352" value="&lt;font style=&quot;font-size: 18px&quot;&gt;صفحه جستجوی سوال&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2843" y="212" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NAYKpirZV9pptctWj_pX-353" value="بازگشت&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2689" y="219" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
