@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T14:02:06.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="onqINKq4wGMdjST4pFgZ" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:22:16.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Lqkpt6_D7d6_-v1HxFYD" version="16.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1203" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,9 @@
             <mxPoint x="28" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AHsz2bA0fQ50QZUwcgBC-177" style="rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="AHsz2bA0fQ50QZUwcgBC-101" target="AHsz2bA0fQ50QZUwcgBC-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AHsz2bA0fQ50QZUwcgBC-101" value="&lt;span style=&quot;font-size: 15px&quot;&gt;چت و&lt;br&gt;&amp;nbsp;تخته آنلاین&lt;/span&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="498" width="84" height="84" as="geometry" />
         </mxCell>
@@ -250,8 +253,8 @@
         <mxCell id="AHsz2bA0fQ50QZUwcgBC-148" value="درگاه پرداخت" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="126" y="573" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AHsz2bA0fQ50QZUwcgBC-149" value="&lt;font style=&quot;font-size: 10px&quot;&gt;داده های ورودی ، مشخصات پرداخت&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="240" y="442" width="140" height="20" as="geometry" />
+        <mxCell id="AHsz2bA0fQ50QZUwcgBC-149" value="&lt;font style=&quot;font-size: 10px&quot;&gt;داده های ورودی&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="275" y="442" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AHsz2bA0fQ50QZUwcgBC-150" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;endArrow=none;" edge="1" parent="1" source="AHsz2bA0fQ50QZUwcgBC-93" target="AHsz2bA0fQ50QZUwcgBC-149">
           <mxGeometry relative="1" as="geometry">
@@ -271,6 +274,9 @@
         </mxCell>
         <mxCell id="AHsz2bA0fQ50QZUwcgBC-176" value="وضعیت اشتراک ، نتیجه خرید" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="310" y="700" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AHsz2bA0fQ50QZUwcgBC-179" value="داده های کاربر" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="525" y="575" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
