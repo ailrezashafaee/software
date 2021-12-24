@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T13:27:09.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sMa2Jr2EAub83FFDN_xV" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T14:02:06.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="onqINKq4wGMdjST4pFgZ" version="16.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1203" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -258,6 +258,19 @@
             <mxPoint x="310" y="370" as="sourcePoint" />
             <mxPoint x="310" y="492" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AHsz2bA0fQ50QZUwcgBC-175" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="576" as="sourcePoint" />
+            <mxPoint x="996" y="492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="720" />
+              <mxPoint x="996" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AHsz2bA0fQ50QZUwcgBC-176" value="وضعیت اشتراک ، نتیجه خرید" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
