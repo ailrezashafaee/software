@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T21:09:33.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zIWdQ6TZkegCfqGdJi2S" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T21:13:01.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QpIjLSqdyYtDAFhGyQk0" version="16.0.3" type="github">
   <diagram id="h6McKcEAWvwjOUigI_QP" name="Page-1">
-    <mxGraphModel dx="1572" dy="-195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YfWN40CG9TTWJkw-VOLP-93" value="&lt;span style=&quot;font-size: 15px&quot;&gt;تخته آنلاین&lt;/span&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="544" y="1584" width="86" height="86" as="geometry" />
+          <mxGeometry x="544" y="1580" width="86" height="86" as="geometry" />
         </mxCell>
         <mxCell id="YfWN40CG9TTWJkw-VOLP-107" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;labelBackgroundColor=#DAD2D8;" parent="1" source="YfWN40CG9TTWJkw-VOLP-99" target="YfWN40CG9TTWJkw-VOLP-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1037,12 +1037,12 @@
         </mxCell>
         <mxCell id="10G9BNa000tqApw6HllA-60" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.034;entryY=0.284;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;elbow=vertical;labelBackgroundColor=#DAD2D8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="267.2600000000001" y="3999" as="sourcePoint" />
-            <mxPoint x="429.41600000000005" y="3999.156" as="targetPoint" />
+            <mxPoint x="161.8400000000001" y="4021.29" as="sourcePoint" />
+            <mxPoint x="323.99600000000004" y="4021.446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="10G9BNa000tqApw6HllA-61" value="&lt;span style=&quot;font-size: 14px&quot;&gt;فرمان کاربر ادمین&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="218.42000000000007" y="4000" width="100" height="20" as="geometry" />
+          <mxGeometry x="181.00000000000006" y="4006" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="10G9BNa000tqApw6HllA-63" value="داده های بازخورد ها" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;rounded=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="390.15999999999997" y="5430" width="100" height="30" as="geometry" />
