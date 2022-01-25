@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T19:15:04.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="NSM7XVQ0IwBkgXVQxyI3" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T19:49:37.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zz5_yyXai3T0zOJT0DuJ" version="16.4.5" type="github">
   <diagram id="AOYzm6A--xe7riZ-FqO6" name="Page-1">
-    <mxGraphModel dx="1955" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,13 +116,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tjg8d9aJ02kQc5-144YI-79" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3Bshape%3Dcube%3Bsize%3D10%3Bdirection%3Dsouth%3BfontStyle%3D0%3Bhtml%3D1%3BboundedLbl%3D1%3BspacingLeft%3D5%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2279%22%20y%3D%22111%22%20width%3D%22320%22%20height%3D%22429.1%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26amp%3Blt%3B%26amp%3Blt%3BDevice%26amp%3Bgt%3B%26amp%3Bgt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BPC%2FLaptop%2FPhone%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bdashed%3D0%3BfillColor%3D%23ffffff%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%2212.727272727272728%22%20width%3D%22180%22%20height%3D%2250.909090909090914%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3Bshape%3Dcube%3Bsize%3D10%3Bdirection%3Dsouth%3BfontStyle%3D0%3Bhtml%3D1%3BboundedLbl%3D1%3BspacingLeft%3D5%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%22-10%22%20y%3D%2289%22%20width%3D%22303%22%20height%3D%22349.1%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26amp%3Blt%3B%26amp%3Blt%3BOS%26amp%3Bgt%3B%26amp%3Bgt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bb%26gt%3BWindows%2FMacOS%2FLinux%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bdashed%3D0%3BfillColor%3D%23ffffff%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%2266.28125%22%20y%3D%2212.00114591291062%22%20width%3D%22170.43750000000003%22%20height%3D%2248.00458365164248%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1008" width="287" height="230" as="geometry" />
+          <mxGeometry x="190" y="1009" width="287" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Tjg8d9aJ02kQc5-144YI-80" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Bank Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="Tjg8d9aJ02kQc5-144YI-79">
-          <mxGeometry x="33.83" y="30" width="219.35" height="30" as="geometry" />
+          <mxGeometry x="33.83" y="25.043478260869563" width="219.35" height="25.043478260869563" as="geometry" />
         </mxCell>
-        <mxCell id="Tjg8d9aJ02kQc5-144YI-90" value="&amp;lt;&amp;lt;Artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Bank Program&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="243.5" y="1092.42" width="180" height="67.58" as="geometry" />
+        <mxCell id="Tjg8d9aJ02kQc5-144YI-94" value="Bank DB" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Tjg8d9aJ02kQc5-144YI-79">
+          <mxGeometry x="93" y="85.15002815977856" width="89" height="40.42371541501976" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
